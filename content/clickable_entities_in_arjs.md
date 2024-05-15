@@ -1,6 +1,7 @@
 Title: How to create clickable entities with AR.js
 Date: 2024-05-14
 Category: Augmented Reality
+Tags: AR.js
 
 How to create clickable entities with AR.js
 
